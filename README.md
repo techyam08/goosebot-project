@@ -5,7 +5,7 @@ our Autonomous Robotic Vehicles course (EEL4660) at Florida Polytechnic Universi
 * [Click here for Video Demonstration](https://drive.google.com/file/d/1CsQ0IuaXm-ntTdOesSkDJeHTemNeDtV9/view?usp=sharing) of the Goosebot running three laps under 60 seconds <br>
 * [Click here for Report File](https://github.com/techyam08/goosebot-project/tree/main/final_report) to obtain detailed information on setup and implementation steps.
 
-The following files were adopted from [this reference repository](https://github.com/hoanbklucky/goose] for intial implementation and troubleshooting
+The following files were adopted from [this reference repository](https://github.com/hoanbklucky/goose) for intial implementation and troubleshooting
 * detect.py
 * drive.py
 
